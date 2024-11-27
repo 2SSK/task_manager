@@ -12,6 +12,9 @@ _test
 vendor/
 tmp/
 
+# Logs
+*.log
+
 # Compiled binary files
 *.exe
 *.out
